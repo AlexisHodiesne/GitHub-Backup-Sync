@@ -10,7 +10,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 1. Clone your project locally.
 2. Navigate to the `.git/hooks` directory of your project (could be a hidden folder).
-3. Create the `post-push` file and make it executable:
+3. Copy this to your terminal:
 ```sh
 echo '
 #!/bin/bash
