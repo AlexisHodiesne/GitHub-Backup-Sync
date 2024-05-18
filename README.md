@@ -45,5 +45,7 @@ copy_project
 Before using the script, make sure to configure the following variables according to your setup:
 
 BACKUP_DIR: Set the path for the backup directory.
+
 ENABLE_LOG: Set to true to enable logging, or false to disable it.
+
 LOG_FILE: Specify the path for the log file if logging is enabled.
